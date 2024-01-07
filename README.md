@@ -1,4 +1,4 @@
-# Data Analysis Portfolio  
+# Data Analysis Portfolio Projects  
 # 1- Virtual Internships, Forage  
 ## KPMG AU Data Analytics Job Simulation  
 ![sprocket_central_logo](https://user-images.githubusercontent.com/74540804/190919418-f90b3ea5-219e-4409-96d7-d51200775a3a.png)  
