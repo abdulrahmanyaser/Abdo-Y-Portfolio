@@ -9,6 +9,8 @@
 #### check the project from [HERE](https://github.com/abdulrahmanyaser/Virtual_Experience_Programs/tree/main/Companies/KPMG%20AU%20Data%20Analytics%20virtual%20internship)
 
 ## Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation  
+![images](https://github.com/abdulrahmanyaser/Abdo-Y-Portfolio/assets/74540804/f1c8bcbd-eb12-403d-91e1-74458b822161)
+
 ### 1- Completed a simulation involving creating data visualizations for Tata Consultancy Services
 ### 2- Prepared questions for a meeting with client senior leadership
 ### 3- Created visuals for data analysis to help executives with effective decision making
