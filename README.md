@@ -1,10 +1,11 @@
 # Data Analyst
 ## Virtual Internships, Forage
 ### KPMG AU Data Analytics Job Simulation  
-    Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
-    Assessed data quality and completeness in preparation for analysis
-    Analysed data to target high-value customers based on demographics and attributes
-    Developed dashboards to communicate findings with visuals
+#### 1-Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
+#### 2- Assessed data quality and completeness in preparation for analysis
+#### 3- Analysed data to target high-value customers based on demographics and attributes
+#### 4- Developed dashboards to communicate findings with visuals
+#### check the project from here: Companies/KPMG AU Data Analytics virtual internship
 ### Break Down:
   #### Data Acquisition:
       The client provided KPMG with 3 datasets:  
