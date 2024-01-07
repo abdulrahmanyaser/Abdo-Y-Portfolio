@@ -49,6 +49,8 @@
 
 
 # AI-DA Projects  
+![download](https://github.com/abdulrahmanyaser/Abdo-Y-Portfolio/assets/74540804/73e88808-07b3-4881-b026-3f9e4051e961)  
+
 ### This project category is new to me. the idea behind it is applying and using AI tools like [BING, BARD] for the data analysis.  
 ### since i'm still learning and with the fact that there is no mentor, the AI shines and acts as a mentor and a  guide.
 #### check the project from [HERE](https://github.com/abdulrahmanyaser/AI-DA/tree/main/IBM%20WATSON).   
