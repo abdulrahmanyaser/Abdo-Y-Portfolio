@@ -24,7 +24,7 @@
 
 
 ## Personal Projects
-### Customer Analysis
+## Customer Analysis
 ![download](https://github.com/abdulrahmanyaser/Abdo-Y-Portfolio/assets/74540804/32936c97-ce59-4cf7-89d9-80e484d57b9a)
 ### Analyzing real records of almost 300k rows to understand the sales and reviews performance.  
 #### check the project from [HERE](https://github.com/abdulrahmanyaser/SQL-tableau-Projects/tree/main/Customer%20Analysis).  
