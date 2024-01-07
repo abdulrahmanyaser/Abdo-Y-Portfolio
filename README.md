@@ -1,4 +1,4 @@
-# Data Analyst  
+# 1- Data Analyst  
 # Virtual Internships, Forage  
 ## KPMG AU Data Analytics Job Simulation  
 ![sprocket_central_logo](https://user-images.githubusercontent.com/74540804/190919418-f90b3ea5-219e-4409-96d7-d51200775a3a.png)  
@@ -19,7 +19,7 @@
  
 
 
-# Personal Projects  
+# 2- Personal Projects  
 
 ## Customer Analysis
 ![download](https://github.com/abdulrahmanyaser/Abdo-Y-Portfolio/assets/74540804/32936c97-ce59-4cf7-89d9-80e484d57b9a)
@@ -48,7 +48,7 @@
 
 
 
-# AI-DA Projects  
+# 3- AI-DA Projects  
 ![download](https://github.com/abdulrahmanyaser/Abdo-Y-Portfolio/assets/74540804/73e88808-07b3-4881-b026-3f9e4051e961)  
 
 ### This project category is new to me. the idea behind it is applying and using AI tools like [BING, BARD] for the data analysis.  
