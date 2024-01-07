@@ -1,6 +1,7 @@
 # Data Analyst
-## Virtual Internships, Forage
-### KPMG AU Data Analytics Job Simulation  
+## Virtual Internships, Forage  
+## KPMG AU Data Analytics Job Simulation  
+![sprocket_central_logo](https://user-images.githubusercontent.com/74540804/190919418-f90b3ea5-219e-4409-96d7-d51200775a3a.png)  
 #### 1-Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 #### 2- Assessed data quality and completeness in preparation for analysis
 #### 3- Analysed data to target high-value customers based on demographics and attributes
